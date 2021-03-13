@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, java and c++
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me is easy at logonyinelson@gmail.com, +2567883047
+- 📫 How to reach me is easy at logonyinelson@gmail.com, +256788304740
 
 
 <!---
